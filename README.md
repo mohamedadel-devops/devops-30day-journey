@@ -13,7 +13,7 @@ This repository documents my full **30-day hands-on DevOps learning journey** �
 | ✅  | **Day 3** - Docker Compose                  | Done   |
 | ✅  | **Day 4** - CI/CD with GitHub Actions       | Done   |
 | ✅  | **Day 5** - CI/CD to DockerHub              | Done   |
-| ⏳  | **Day 6** - Testing with GitHub Actions     | Done   |
+| ⏳  | **Day 6** - Full CI/CD Pipeline             | Done   |
 | 🔜  | **Day 7–30** - More Docker, K8s, Terraform, AWS, Monitoring & more | Coming |
 
 ---
