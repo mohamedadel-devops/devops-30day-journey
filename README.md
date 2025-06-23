@@ -13,7 +13,7 @@ This repository documents my full **30-day hands-on DevOps learning journey** �
 | ✅  | **Day 3** - Docker Compose                  | Done   |
 | ✅  | **Day 4** - CI/CD with GitHub Actions       | Done   |
 | ✅  | **Day 5** - CI/CD to DockerHub              | Done   |
-| ⏳  | **Day 6** - Testing with GitHub Actions     | In Progress |
+| ⏳  | **Day 6** - Testing with GitHub Actions     | Done   |
 | 🔜  | **Day 7–30** - More Docker, K8s, Terraform, AWS, Monitoring & more | Coming |
 
 ---
@@ -36,7 +36,7 @@ Each day links to a separate GitHub repository that includes:
 - [Day 3 - Docker Compose](https://github.com/mohamedadel-devops/day3-docker-compose)
 - [Day 4 - CI/CD with GitHub Actions](https://github.com/mohamedadel-devops/day4-github-actions-ci-cd)
 - [Day 5 - CI/CD to DockerHub](https://github.com/mohamedadel-devops/day5-github-actions-dockerhub-push)
-
+- [Day 6 - Full CI/CD Pipeline: DockerHub → EC2](https://github.com/mohamedadel-devops/day6-dockerhub-cd)
 ---
 
 ## 🧑‍💻 About Me
